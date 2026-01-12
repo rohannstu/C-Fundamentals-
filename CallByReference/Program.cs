@@ -1,5 +1,4 @@
-﻿
-class CallByRef
+﻿class CallByRef
 {
     static void Main()
     {
